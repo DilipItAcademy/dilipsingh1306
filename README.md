@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Dilip Singh, Java Micro Services Developer with 9+ Years Realtime Experiance 
-- 👀 I’m interested in Microservices Architecture Design and Implementation 
-- 💞️ I’m looking to collaborate on freelancing projects
-- 📫 Reach me here : +91 8826111377
+- 👋 Hi, I’m Dilip Singh, Java Micro Services Developer and Trainer in NareshIT with 10+ Years of real-time experience 
+- 👀 I’m interested to share knowledge of SpringBoot and Microservices Architecture Design and Implementation 
+- 📫 Reach me here: +91 8826111377
